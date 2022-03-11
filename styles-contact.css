@@ -69,7 +69,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-	background-image: url(../image/img1.jpg);
+	background-image: url("image/img1.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -101,7 +101,7 @@ header div {
 
 header div:first-child {
     flex: 1;
-    background: url(../image/Logos_.png)no-repeat center center;
+    background: url("image/Logos_.png")no-repeat center center;
     background-size: contain; 
 	margin-left: 35px;
 }
