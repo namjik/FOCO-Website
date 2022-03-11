@@ -155,7 +155,7 @@ p {
 
 
 .center {
-	height: 150%;
+	height: 60%;
 	width: 100%;
     margin: 0 auto;
  	background: rgba(29, 30, 30, 0.75); /*this uses opacity of 75% for the background color*/
